@@ -1,0 +1,11 @@
+using System.OS.Load.Func;
+using OS.ipad.os;
+
+use win32.api.nk;
+
+fn::main* created() -> Protected& static{
+    Main::emit* load{
+        mov cl0<:>, 8
+        mov eax:load
+    }
+}
