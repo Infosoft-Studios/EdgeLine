@@ -1,0 +1,12 @@
+<Image>
+  <HexaData>
+    0x00045
+    0x03
+  </HexaData>
+  <kernel>
+    <const> 0x93 </const>
+    <ImageData>
+      <FileData> 0x03 </FileData>
+    </ImageData>
+  </kernel>
+</Image>
